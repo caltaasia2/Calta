@@ -1271,11 +1271,12 @@ html {
     <svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
   </a>` : ''}
   ${data.venueUrl ? `
-  <a href="${data.venueUrl}" target="_blank" rel="noopener"
-     style="display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold-bright);background:var(--cream);padding:10px 20px;border-radius:2px;font-weight:500;transition:background .2s, transform .2s;"     onmouseover="this.style.transform='translateY(-1px)';this.style.background='rgba(243,239,226,0.2)'"
-     onmouseout="this.style.transform='translateY(0)';this.style.background='rgba(243,239,226,0.12)'">
-    Районный дом культуры
-  </a>` : ''}
+<a href="${data.venueUrl}" target="_blank" rel="noopener"
+   style="display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold-bright);background:var(--cream);padding:10px 20px;border-radius:2px;font-weight:500;transition:background .2s, transform .2s;"
+   onmouseover="this.style.transform='translateY(-1px)'"
+   onmouseout="this.style.transform='translateY(0)'">
+  Районный дом культуры
+</a>` : ''}
 </div>` : ''}
       `;
     });
