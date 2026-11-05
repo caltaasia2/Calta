@@ -1259,16 +1259,24 @@ html {
         <p style="font-family:var(--body);font-size:clamp(14px,1.1vw,17px);line-height:1.7;color:var(--cream);opacity:.85;max-width:80%;margin:0 auto 16px;">${data.desc}</p>
         <div style="font-family:var(--mono);font-size:12px;color:var(--cream);opacity:.6;display:flex;align-items:center;justify-content:center;gap:8px;"><span style="width:6px;height:6px;border-radius:50%;background:var(--turquoise-light);display:inline-block;"></span> ${data.location}</div>
         ${filesHtml}
-        ${data.registerUrl ? `
-        <div style="margin-top:20px;">
-          <a href="${data.registerUrl}"
-             style="display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold-bright);background:var(--cream);padding:12px 26px;border-radius:2px;font-weight:500;transition:background .2s, transform .2s;"
-             onmouseover="this.style.transform='translateY(-1px)'"
-             onmouseout="this.style.transform='translateY(0)'">
-            Подать заявку на участие
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </a>
-        </div>` : ''}
+        ${(data.registerUrl || data.venueUrl) ? `
+<div style="margin-top:20px;display:flex;flex-direction:column;align-items:center;gap:10px;">
+  ${data.registerUrl ? `
+  <a href="${data.registerUrl}"
+     style="display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold-bright);background:var(--cream);padding:10px 20px;border-radius:2px;font-weight:500;transition:background .2s, transform .2s;"
+     onmouseover="this.style.transform='translateY(-1px)'"
+     onmouseout="this.style.transform='translateY(0)'">
+    Подать заявку на участие
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </a>` : ''}
+  ${data.venueUrl ? `
+  <a href="${data.venueUrl}" target="_blank" rel="noopener"
+     style="display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--cream);background:rgba(243,239,226,0.12);border:1px solid rgba(243,239,226,0.35);padding:10px 20px;border-radius:2px;font-weight:500;transition:background .2s, border-color .2s, transform .2s;"
+     onmouseover="this.style.transform='translateY(-1px)';this.style.background='rgba(243,239,226,0.2)'"
+     onmouseout="this.style.transform='translateY(0)';this.style.background='rgba(243,239,226,0.12)'">
+    Районный дом культуры
+  </a>` : ''}
+</div>` : ''}
       `;
     });
 
