@@ -595,26 +595,25 @@ html {
     .nav-right{display:none;}
     .burger{display:block;position:relative;z-index:5;}
   }
-  @media(max-width:760px){
+    @media(max-width:760px){
     section{padding:70px 0;}
     .contact-grid{grid-template-columns:1fr;gap:20px;}
   }
-</style>
 
   @media(max-width:760px){
-  #eventsCarousel{height:auto !important;max-height:none !important;}
-  #carouselTrack{height:auto !important;}
-  .carousel-item{
-    position:relative !important;left:auto !important;top:auto !important;
-    transform:none !important;aspect-ratio:auto !important;
-    width:calc(100% - 32px) !important;margin:0 auto;
-    padding:24px 18px !important;
+    #eventsCarousel{height:auto !important;max-height:none !important;}
+    #carouselTrack{height:auto !important;}
+    .carousel-item{
+      position:relative !important;left:auto !important;top:auto !important;
+      transform:none !important;aspect-ratio:auto !important;
+      width:calc(100% - 32px) !important;margin:0 auto;
+      padding:24px 18px !important;
+    }
+    .carousel-item p{max-width:100% !important;}
+    .carousel-item a{display:block;width:100%;text-align:center;}
+    #eventsPrev,#eventsNext,#eventsDots{display:none !important;}
   }
-  .carousel-item p{max-width:100% !important;}
-  .carousel-item a{display:block;width:100%;text-align:center;}
-  #eventsPrev,#eventsNext,#eventsDots{display:none !important;}
-}
-  
+</style>
 </head>
 <body>
 
