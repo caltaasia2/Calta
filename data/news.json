@@ -1,25 +1,15 @@
 {
   "isDemo": false,
-  "updatedAt": "2026-11-24T05:50:21.386959+00:00",
+  "updatedAt": "2026-11-25T05:50:46.750225+00:00",
   "items": [
     {
       "source": "logistan.info",
-      "topic": "Грузы",
-      "title": "Центральная Азия увеличит парк грузовых самолётов к 2045 году — прогноз Airbus",
-      "summary": "Как следует из доступных сведений, речь идёт о 2045. Вместе с тем, как следует из доступных сведений, речь идёт о 290. Также отмечается, что по сути, по оценкам компании, пассажиропоток за этот же период увеличится втрое.",
-      "publishedAt": "Wed, 18 Nov 2026 15:41:00 +0000",
+      "topic": "Транспорт",
+      "title": "В Казахстане завершили реконструкцию трассы «Кызылорда – Жезказган»",
+      "summary": "По имеющимся данным, ключевой показатель составляет 208 километров. Помимо этого, согласно приведённым цифрам, показатель достигает 400 километров. По имеющимся данным, как отмечается, жезказган» — автомобильная трасса, которая соединяет южный регион и центральный — справка LogiStan: «Кызылорда.",
+      "publishedAt": "Tue, 24 Nov 2026 12:47:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8N3x8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTU0OTk0MTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-      }
-    },
-    {
-      "source": "logistan.info",
-      "topic": "Инфраструктура",
-      "title": "Когда заработает КПП «Гишткуприк» на границе Узбекистана с Казахстаном?",
-      "summary": "Соответствующий показатель, по последним данным, находится на уровне 25. Помимо этого, по имеющимся данным, ключевой показатель составляет 16. Вместе с тем, согласно приведённым цифрам, показатель достигает 2025.",
-      "publishedAt": "Mon, 23 Nov 2026 14:20:00 +0000",
-      "photo": {
-        "url": "https://images.unsplash.com/photo-1592838064575-70ed626d3a0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8OXx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTU0OTk0MTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1493946740644-2d8a1f1a6aff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8OHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTU1ODU4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     }
   ]
