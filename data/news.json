@@ -1,15 +1,25 @@
 {
   "isDemo": false,
-  "updatedAt": "2026-11-25T05:50:46.750225+00:00",
+  "updatedAt": "2026-11-26T05:50:36.720173+00:00",
   "items": [
     {
       "source": "logistan.info",
-      "topic": "Транспорт",
-      "title": "В Казахстане завершили реконструкцию трассы «Кызылорда – Жезказган»",
-      "summary": "По имеющимся данным, ключевой показатель составляет 208 километров. Помимо этого, согласно приведённым цифрам, показатель достигает 400 километров. По имеющимся данным, как отмечается, жезказган» — автомобильная трасса, которая соединяет южный регион и центральный — справка LogiStan: «Кызылорда.",
-      "publishedAt": "Tue, 24 Nov 2026 12:47:00 +0000",
+      "topic": "Грузы",
+      "title": "На 15% вырос транзитный грузооборот через Туркменистан",
+      "summary": "Как следует из доступных сведений, речь идёт о 2026. Также отмечается, что как следует из доступных сведений, речь идёт о 1,6 млн. Помимо этого, как следует из доступных сведений, речь идёт о 6,6 млн.",
+      "publishedAt": "Wed, 25 Nov 2026 11:04:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1493946740644-2d8a1f1a6aff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8OHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTU1ODU4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1686658978910-247da33c075f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8MTB8fHRyYW5zaXQlMjBjZW50cmFsJTIwYXNpYXxlbnwxfDB8fHwxNzk1NjcyMjMzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    },
+    {
+      "source": "logistan.info",
+      "topic": "Транспорт",
+      "title": "Ташкентский метрополитен планирует закупить у России ещё 40 вагонов",
+      "summary": "Судя по всему, центре Sputnik Uzbekistan — об этом в пресс. Помимо этого, как следует из доступных сведений, речь идёт о 2027. Также отмечается, что согласно приведённым цифрам, показатель достигает 20%.",
+      "publishedAt": "Thu, 26 Nov 2026 04:40:00 +0000",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1678562086957-9bd714d428f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8MTB8fGxvZ2lzdGljcyUyMHRyYW5zcG9ydCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTU2NzIyMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     }
   ]
