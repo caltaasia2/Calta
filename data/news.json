@@ -1,25 +1,25 @@
 {
   "isDemo": false,
-  "updatedAt": "2026-11-26T05:50:36.720173+00:00",
+  "updatedAt": "2026-11-27T05:53:27.730534+00:00",
   "items": [
     {
       "source": "logistan.info",
-      "topic": "Грузы",
-      "title": "На 15% вырос транзитный грузооборот через Туркменистан",
-      "summary": "Как следует из доступных сведений, речь идёт о 2026. Также отмечается, что как следует из доступных сведений, речь идёт о 1,6 млн. Помимо этого, как следует из доступных сведений, речь идёт о 6,6 млн.",
-      "publishedAt": "Wed, 25 Nov 2026 11:04:00 +0000",
+      "topic": "Транспорт",
+      "title": "Казахстан выполнил план по поставкам пассажирских вагонов почти на 85%",
+      "summary": "С начала 2026 лет подряд автопарк пассажирских единиц подвижного состава Казахстана пополнился 162 единицами техники. Кроме того, как следует из доступных сведений, речь идёт о 84,8%. По имеющимся данным, в том числе: • 51 вагон производства RWS Wagon;• 111 единиц подвижного состава производства Stadler Kazakhstan.",
+      "publishedAt": "Thu, 26 Nov 2026 09:35:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1686658978910-247da33c075f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8MTB8fHRyYW5zaXQlMjBjZW50cmFsJTIwYXNpYXxlbnwxfDB8fHwxNzk1NjcyMjMzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1559297434-fae8a1916a79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8NHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTU3NTg4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     },
     {
       "source": "logistan.info",
-      "topic": "Транспорт",
-      "title": "Ташкентский метрополитен планирует закупить у России ещё 40 вагонов",
-      "summary": "Судя по всему, центре Sputnik Uzbekistan — об этом в пресс. Помимо этого, как следует из доступных сведений, речь идёт о 2027. Также отмечается, что согласно приведённым цифрам, показатель достигает 20%.",
-      "publishedAt": "Thu, 26 Nov 2026 04:40:00 +0000",
+      "topic": "Порты",
+      "title": "«Батумский морской порт» нарастил объем перевалки грузовна 2,5%",
+      "summary": "Согласно приведённым цифрам, показатель достигает 2026. По имеющимся данным, соответствующий показатель, по последним данным, находится на уровне 0,038 млн. При этом по имеющимся данным, ключевой показатель составляет 0,26 млн.",
+      "publishedAt": "Thu, 26 Nov 2026 08:17:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1678562086957-9bd714d428f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8MTB8fGxvZ2lzdGljcyUyMHRyYW5zcG9ydCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTU2NzIyMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1760441471231-79f080ccca49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTM5NDI5fDB8MXxzZWFyY2h8Mnx8cG9ydCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTU3NTg4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     }
   ]
